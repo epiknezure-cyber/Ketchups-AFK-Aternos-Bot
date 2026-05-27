@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "KetchupsBot",
+    "username": "FatChud204",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "Autisticlub.aternos.me",
     "port": 49855,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -74,7 +74,7 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "webhookUrl": "https://discord.com/api/webhooks/1509216063135547453/rmFAPtcgHKr0yzbLa-3VaG5oQt9O-0Sk-dW3g9GKGxA67msusHE4cWSxzTaXSIxsMibb",
     "events": {
       "connect": true,
       "disconnect": true,
