@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "KetchupsBots",
+    "username": "Ketchuru",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "Autisticlub.aternos.me",
-    "port": ,
+    "port": 49855,
     "version": "",
     "try-creative": false
   },
