@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Autisticlub.aternos.me",
-    "port": 49855,
+    "ip": "TrainingHall.aternos.me",
+    "port": 41852,
     "version": "",
     "try-creative": false
   },
@@ -60,7 +60,7 @@
   "modules": {
     "avoidMobs": true,
     "combat": true,
-    "beds": true,
+    "beds": false,
     "chat": true,
     "console-commands": true
   },
