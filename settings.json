@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Autisticlub.aternos.me",
+    "ip": "Autisticlub.aternos.me:49855",
     "port": 49855,
     "version": "",
     "try-creative": false
