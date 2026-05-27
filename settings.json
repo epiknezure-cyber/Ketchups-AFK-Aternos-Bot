@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "FatChud204",
+    "username": "KetchupsBots",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "Autisticlub.aternos.me",
     "port": 49855,
-    "version": "1.21.11",
+    "version": "",
     "try-creative": false
   },
   "position": {
@@ -19,7 +19,7 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": false,
+      "enabled": true,
       "password": "chalol78"
     },
     "anti-afk": {
@@ -31,13 +31,13 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a Faggot player",
-        "i love minors!",
-        "I like to finger kids!"
+        "I'm a regular player",
+        "Subscribe to Slobos!",
+        "I like to play Minecraft!"
       ]
     },
     "chat-log": true,
-    "auto-reconnect": false,
+    "auto-reconnect": true,
     "auto-reconnect-delay": 2000,
     "max-reconnect-delay": 120000
   },
@@ -58,7 +58,7 @@
     }
   },
   "modules": {
-    "avoidMobs": false,
+    "avoidMobs": true,
     "combat": true,
     "beds": true,
     "chat": true,
@@ -73,8 +73,8 @@
     "place-night": true
   },
   "discord": {
-    "enabled": true,
-    "webhookUrl": "https://discord.com/api/webhooks/1509216063135547453/rmFAPtcgHKr0yzbLa-3VaG5oQt9O-0Sk-dW3g9GKGxA67msusHE4cWSxzTaXSIxsMibb",
+    "enabled": false,
+    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
     "events": {
       "connect": true,
       "disconnect": true,
