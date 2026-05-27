@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "TrainingHall.aternos.me",
-    "port": 41852,
-    "version": "",
+    "ip": "Autisticlub.aternos.me",
+    "port": 49855,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "I'm a Faggot player",
+        "i love minors!",
+        "I like to finger kids!"
       ]
     },
     "chat-log": true,
@@ -58,9 +58,9 @@
     }
   },
   "modules": {
-    "avoidMobs": true,
+    "avoidMobs": false,
     "combat": true,
-    "beds": false,
+    "beds": true,
     "chat": true,
     "console-commands": true
   },
